@@ -8,7 +8,7 @@ I transform operational data into production-ready insights: automated ETL, repe
 ---
 
 ## About
-I focus on SQL-led ETL, visualization, and operational analytics. My work spans fraud operations, trust & safety analytics, and revenue reconciliation — delivering dashboards and automations that let product & ops teams act faster and with confidence.
+I focus on SQL-led ETL, visualization, and operational analytics. My work spans fraud operations, trust & safety analytics, and HR analytics — delivering dashboards and automations that let stakeholders act faster and with confidence.
 
 ## Skills
 
@@ -27,11 +27,11 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
 - **Practical Experience:** Applied text analysis techniques using R to extract actionable insights and high-quality keywords supporting business analytics initiatives.  
 
 ### Technical Proficiencies
-- **Languages:** SQL (Oracle Certified Expert), Python, R  
-- **BI & Visualization Tools:** Looker Studio, Google Data Studio, Tableau, Microsoft Excel  
+- **Languages:** SQL (Oracle Certified Expert), Python (Basics)
+- **Data Visualization Tools:** LookML, Google Data Studio, Tableau, Microsoft Excel, Plx  
 - **Databases:** MS SQL Server, Amazon Redshift, PostgreSQL  
-- **Version Control & Workflow Tools:** Git, GitHub, JIRA, Confluence  
-- **Domain Expertise:** Fraud Analytics, Abuse Detection & Mitigation, Revenue Assurance, Process Automation, Operational Analytics
+- **Version Control & Workflow Tools:** Git, GitHub, GitHub Desktop 
+- **Domain Expertise:** Fraud Analytics, Abuse Detection & Mitigation, HR Analytics, Process Automation, Operational Analytics
 
 ## Contact
 - ✉️ Email: kottawartushar084@gmail.com  
