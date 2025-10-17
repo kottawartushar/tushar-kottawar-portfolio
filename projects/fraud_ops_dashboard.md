@@ -6,8 +6,11 @@ Fraud Operations Dashboard
 ## 1️⃣ Project Context
 
 **Organization / Client:** Turing / Aircall
+
 **Duration:**   January 2025 - September 2025
+
 **Role:**   Senior Data Analyst
+
 **Domain / Focus Area:**   Fraud Analytics
 
 ---
