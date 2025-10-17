@@ -46,10 +46,10 @@ The objectives of my project are as follows:
 
 **Tools & Technologies:**
 
-1. Hex - SQL development and testing
-2. Cursor - Production deployment and monitoring
-3. LookML - Data modeling and visualization
-4. GitHub - Version control and collaboration
+1. **Hex:** SQL development and testing
+2. **Cursor:** Production deployment and monitoring
+3. **LookML:** Data modeling and visualization
+4. **GitHub:** Version control and collaboration
 
 ---
 
