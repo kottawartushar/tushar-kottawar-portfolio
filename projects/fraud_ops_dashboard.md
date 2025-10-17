@@ -86,13 +86,13 @@ This project follows a structured, data analytics and engineering approach:
 
 **Challenges & Constraints:**
 
-1. Fragmented Data Sources: Fraud-event data was scattered across Salesforce, Admin Portal, Companies, and Zendesk systems — each with differing field structures, timestamps, and fraud indicators. Consolidating these into a single, accurate fraud data model required extensive validation and SQL-based reconciliation logic.
+1. *Fragmented Data Sources:* Fraud-event data was scattered across Salesforce, Admin Portal, Companies, and Zendesk systems — each with differing field structures, timestamps, and fraud indicators. Consolidating these into a single, accurate fraud data model required extensive validation and SQL-based reconciliation logic.
    
-2. Tool Access and Deployment Dependencies: Gaining access to production tools such as Cursor and VPN approvals from Turing initially delayed independent deployments. These constraints demanded proactive coordination with multiple teams across time zones.
+2. *Tool Access and Deployment Dependencies:* Gaining access to production tools such as Cursor and VPN approvals from Turing initially delayed independent deployments. These constraints demanded proactive coordination with multiple teams across time zones.
    
-3. Complex Logic Validation: Ensuring correctness across multiple fraud detection models (Customer BBA, Trial BBA, and ATO) involved detailed sanity checks, testing edge cases, and reconciling inconsistencies between manual reports and automated outputs.
+3. *Complex Logic Validation:* Ensuring correctness across multiple fraud detection models (Customer BBA, Trial BBA, and ATO) involved detailed sanity checks, testing edge cases, and reconciling inconsistencies between manual reports and automated outputs.
 
-4. Bandwidth and Time-Zone Constraints: Collaborating with Aircall’s Strategy & Ops team across regions required restructuring meeting cadences and refining communication efficiency to avoid bottlenecks.
+4. *Bandwidth and Time-Zone Constraints:* Collaborating with Aircall’s Strategy & Ops team across regions required restructuring meeting cadences and refining communication efficiency to avoid bottlenecks.
 
 **Learnings:**
 
