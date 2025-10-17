@@ -4,8 +4,9 @@ Fraud Operations Dashboard
 ---
 
 ## 1️⃣ Project Context
-**Organization / Client:** Turing / Aircall  
-**Duration:**   January 2025 - September 2025 
+
+**Organization / Client:** Turing / Aircall
+**Duration:**   January 2025 - September 2025
 **Role:**   Senior Data Analyst
 **Domain / Focus Area:**   Fraud Analytics
 
@@ -30,11 +31,6 @@ The objectives of my project are as follows:
 5. Incorporate a continuous improvement mechanism whereby feedback, new threats, and evolving business requirements are used to refine the pipeline, analytics logic, and dashboards over time. 
 
 ---
-
-## 4️⃣ Data Sources & Tools
-**Data Sources Used:**  
--   
--   
 
 **Tools & Technologies:**  
 1. Hex - for writing SQL queries and testing
