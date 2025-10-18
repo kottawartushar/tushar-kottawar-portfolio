@@ -12,13 +12,13 @@ I transform operational data into production-ready insights: automated ETL, repe
 
 ---
 
-## About
+## 💡 About
 
 I focus on SQL-led ETL, visualization, and operational analytics. My work spans fraud operations, trust & safety analytics, and HR analytics — delivering dashboards and automations that let stakeholders act faster and with confidence.
 
-## Skills
+## 🧠 Skills and Expertise
 
-### Data & Business Analytics
+### 📊 Data & Business Analytics
 
 1. **Data-Driven Decision Making:** Proven ability to analyze complex, multi-source datasets to uncover trends, identify discrepancies, and drive key business decisions that enhance revenue assurance and operational efficiency.
 
@@ -26,7 +26,7 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
  
 3. **Reporting & Process Optimization:** Skilled in designing automated reporting systems and analytics workflows that have reduced manual reporting time and enabled faster, data-backed decisions across business functions.  
 
-### Data Engineering & Automation
+### ⚙️ Data Engineering & Automation
 
 1. **ETL & Data Pipelines:** Experienced in building and maintaining SQL-based data pipelines across Redshift and MS SQL Server, integrating diverse data sources to ensure consistency and reduce manual preparation time.
 
@@ -34,13 +34,13 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
 
 3. **Database Management:** Proficient in designing and maintaining database structures, optimizing query performance, and ensuring data integrity for analytics and business continuity.  
 
-### Data Science (Foundational)
+### 📈 Data Science (Foundational)
 
 1. **Analytics & Modeling:** Foundational understanding of predictive analytics and statistical modeling concepts.
 
 2. **Practical Experience:** Applied text analysis techniques using R to extract actionable insights and high-quality keywords supporting business analytics initiatives.  
 
-### Technical Proficiencies
+### 🧰 Technical Proficiencies
 
 1. **Languages:** SQL (Oracle Certified Expert), Python (Basics)
 2. **Data Visualization Tools:** LookML, Google Data Studio, Tableau, Microsoft Excel, Plx  
