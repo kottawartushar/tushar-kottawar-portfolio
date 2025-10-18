@@ -53,6 +53,7 @@ Designed and deployed an automated fraud analytics dashboard to unify data from 
 Built production-grade SQL pipelines and interactive LookML visualizations, cutting fraud reporting time by 60% and investigation turnaround by 30%.
 
 **Tech:** SQL, LookML, Hex, Cursor, GitHub
+
 **Focus:** Fraud Analytics | ETL Automation | Data Visualization
 
 
