@@ -16,6 +16,8 @@ I transform operational data into production-ready insights: automated ETL, repe
 
 I focus on SQL-led ETL, visualization, and operational analytics. My work spans fraud operations, trust & safety analytics, and HR analytics — delivering dashboards and automations that let stakeholders act faster and with confidence.
 
+---
+
 ## 🧠 Skills and Expertise
 
 ### 📊 Data & Business Analytics
@@ -38,15 +40,19 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
 
 1. **Analytics & Modeling:** Foundational understanding of predictive analytics and statistical modeling concepts.
 
-2. **Practical Experience:** Applied text analysis techniques using R to extract actionable insights and high-quality keywords supporting business analytics initiatives.  
+2. **Practical Experience:** Applied text analysis techniques using R to extract actionable insights and high-quality keywords supporting business analytics initiatives.
 
-### 🧰 Technical Proficiencies
+---
+
+## 🧰 Technical Proficiencies
 
 1. **Languages:** SQL (Oracle Certified Expert), Python (Basics)
 2. **Data Visualization Tools:** LookML, Google Data Studio, Tableau, Microsoft Excel, Plx  
 3. **Databases:** MS SQL Server, Amazon Redshift, PostgreSQL  
 4. **Version Control & Workflow Tools:** Git, GitHub, GitHub Desktop 
 5. **Domain Expertise:** Fraud Analytics, Abuse Detection & Mitigation, HR Analytics, Process Automation, Project Management
+
+---
 
 ## 📊 Projects
 
@@ -61,11 +67,15 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 **Focus:** Fraud Analytics | ETL Automation | Data Visualization
 
+---
+
 ## ✍️ Blog and Technical Writing
 
 📝 **[How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)**
 
 An advanced Oracle recovery tutorial I authored — walks through diagnosing redo log corruption, clearing unarchived logs, and restoring database integrity.
+
+---
 
 ## 📫 Contact
 
