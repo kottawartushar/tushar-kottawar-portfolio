@@ -58,7 +58,7 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 ## Blog and Writing
 
-📝 [“How to Resolve Redo Log File Corruption in Oracle”](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)
+📝 [“How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command”](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)
 
 An advanced Oracle recovery tutorial I authored — walks through diagnosing redo log corruption, clearing unarchived logs, and restoring database integrity.
 
