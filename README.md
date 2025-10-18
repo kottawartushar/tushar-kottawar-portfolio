@@ -62,6 +62,6 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 An advanced Oracle recovery tutorial I authored — walks through diagnosing redo log corruption, clearing unarchived logs, and restoring database integrity.
 
-## Contact
-- ✉️ Email: kottawartushar084@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/tusharkottawar
+## 📫 Contact
+- 📧 [Email](mailto:kottawartushar084@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
