@@ -1,9 +1,15 @@
-# Tushar Kottawar  
-**Data Analyst — SQL-first | Dashboard-driven | Business-focused**
+<h1 align="center">Tushar Kottawar</h1>
+<p align="center"><b>Data Analyst</b> — SQL-first • Dashboard-driven • Business-focused</p>
 
+<p align="center">
 I transform operational data into production-ready insights: automated ETL, repeatable dashboards, and reconciliation playbooks that save analyst time and recover revenue.
+</p>
 
-[📄 Download Resume (PDF)](./Tushar_Kottawar_CV.pdf) • [💻 View GitHub Profile](https://github.com/kottawartushar/tushar-kottawar-portfolio)
+<p align="center">
+<a href="./Tushar_Kottawar_CV.pdf">📄 Download Resume (PDF)</a> • 
+<a href="https://github.com/kottawartushar">💻 GitHub</a> • 
+<a href="mailto:kottawartushar084@gmail.com">📧 Email</a>
+</p>
 
 ---
 
@@ -56,12 +62,13 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 **Focus:** Fraud Analytics | ETL Automation | Data Visualization
 
-## Blog and Writing
+## ✍️ Blog and Technical Writing
 
 📝 [How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)
 
 An advanced Oracle recovery tutorial I authored — walks through diagnosing redo log corruption, clearing unarchived logs, and restoring database integrity.
 
 ## 📫 Contact
+
 - 📧 [Email](mailto:kottawartushar084@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
