@@ -48,7 +48,7 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
 4. **Version Control & Workflow Tools:** Git, GitHub, GitHub Desktop 
 5. **Domain Expertise:** Fraud Analytics, Abuse Detection & Mitigation, HR Analytics, Process Automation, Project Management
 
-## Projects
+## 📊 Projects
 
 A selection of analytics projects where I’ve transformed complex data into actionable business insights.
 
@@ -63,7 +63,7 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 ## ✍️ Blog and Technical Writing
 
-📝 [How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)
+📝 **[How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)**
 
 An advanced Oracle recovery tutorial I authored — walks through diagnosing redo log corruption, clearing unarchived logs, and restoring database integrity.
 
