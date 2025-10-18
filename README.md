@@ -5,6 +5,8 @@
 I transform operational data into production-ready insights: automated ETL, repeatable dashboards, and reconciliation playbooks that save analyst time and recover revenue.
 </p>
 
+<p align="center"><i>"Turning operational data into clear, measurable outcomes."</i></p>
+
 <p align="center">
 <a href="./Tushar_Kottawar_CV.pdf">📄 Download Resume (PDF)</a> • 
 <a href="https://github.com/kottawartushar/tushar-kottawar-portfolio">💻 GitHub</a>
@@ -18,7 +20,7 @@ I focus on SQL-led ETL, visualization, and operational analytics. My work spans 
 
 ---
 
-## 🧠 Skills and Expertise
+## 🧠 Skills & Expertise
 
 ### 📊 Data & Business Analytics
 
@@ -79,5 +81,9 @@ An advanced Oracle recovery tutorial I authored — walks through diagnosing red
 
 ## 📫 Contact
 
-- 📧 [Email](mailto:kottawartushar084@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
+📧 [Email](mailto:kottawartushar084@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)  
+
+---
+
+<p align="center">⭐ Built with precision and passion for data analytics</p>
