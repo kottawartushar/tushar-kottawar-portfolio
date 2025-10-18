@@ -7,8 +7,7 @@ I transform operational data into production-ready insights: automated ETL, repe
 
 <p align="center">
 <a href="./Tushar_Kottawar_CV.pdf">📄 Download Resume (PDF)</a> • 
-<a href="https://github.com/kottawartushar">💻 GitHub</a> • 
-<a href="mailto:kottawartushar084@gmail.com">📧 Email</a>
+<a href="https://github.com/kottawartushar">💻 GitHub</a>
 </p>
 
 ---
