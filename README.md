@@ -90,6 +90,10 @@ Highlights of awards and acknowledgments received for professional contributions
 
 Recognized with a **Bronze Cash Award** for automating the text analysis process and finding the key insights, saving up to 10 hours at least.
 
+- 💰 [**Bronze Cash Award — ISP Metrics Collection (October 2021)**](./rewards_and_recognitions/Bronze_award_ISP_metrics.pdf)
+
+Recognized with a **Bronze Cash Award** for rapidly developing and supporting a new metrics collection process using Google Analytics and SOP definition — ensuring timely and sustainable reporting for internal metrics.
+
 ---
 
 ## ✍️ Blog and Technical Writing
