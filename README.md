@@ -75,6 +75,7 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 - View all my verified certifications on Credly:
 👉 [**Tushar Kottawar — Credly Profile**](https://www.credly.com/users/tushar-kottawar)
+
 These include credentials in SQL and Data Analytics — verified through industry-recognized programs.
 
 - **Six Sigma Green Belt Certification** [Six Sigma Green Belt (PDF)](./certifications/Six_Sigma_Green_Belt.pdf)
@@ -86,6 +87,7 @@ These include credentials in SQL and Data Analytics — verified through industr
 Highlights of awards and acknowledgments received for professional contributions and excellence at work.
 
 - 💰 **Bronze Cash Award — Automation of Insights for Internal Communications (July 2021)** [View Certificate (PDF)](./recognitions/Bronze_award_GB_Project.pdf)
+
 Recognized with a **Bronze Cash Award** for automating the text analysis process and finding the key insights, saving up to 10 hours at least.
 
 ---
