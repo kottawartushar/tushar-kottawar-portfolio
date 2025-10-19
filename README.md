@@ -5,7 +5,7 @@
 I transform operational data into production-ready insights: automated ETL, repeatable dashboards, and reconciliation playbooks that save analyst time and recover revenue.
 </p>
 
-<p align="center"><i>"Turning operational data into clear, measurable outcomes."</i></p>
+<p align="center"><br><i>"Turning operational data into clear, measurable outcomes."</i></p>
 
 <p align="center">
 <a href="./Tushar_Kottawar_CV.pdf">📄 Download Resume (PDF)</a> • 
@@ -71,10 +71,12 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications and Badges
 
 View all my verified certifications on Credly:
 👉 [**Tushar Kottawar — Credly Profile**](https://www.credly.com/users/tushar-kottawar)
+
+These include credentials in SQL and Data Analytics — verified through industry-recognized programs.
 
 ---
 
@@ -88,9 +90,9 @@ An advanced Oracle recovery tutorial I authored — walks through diagnosing red
 
 ## 📫 Contact
 
-📧 [Email](mailto:kottawartushar084@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)  
+- 📧 [Email](mailto:kottawartushar084@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
 
 ---
 
-<p align="center">⭐ Built with precision and passion for data analytics</p>
+<p align="center">⭐ <i>Built with precision and passion for data analytics<i></p>
