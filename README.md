@@ -80,9 +80,11 @@ These include credentials in SQL and Data Analytics — verified through industr
 
 - **Six Sigma Green Belt Certification** [Six Sigma Green Belt (PDF)](./certifications/Certificate_of_Achievement_Six_Sigma_GB.pdf)
 
+Certified in Lean Six Sigma Green Belt methodologies for process improvement and operational efficiency.
+
 ---
 
-## 🏆 Rewards and Recognitions
+## 🏆 Rewards and Recognition
 
 Highlights of awards and acknowledgments received for professional contributions and excellence at work.
 
@@ -119,4 +121,4 @@ An advanced Oracle recovery tutorial I authored — walks through diagnosing red
 
 ---
 
-<p align="center">⭐ <i>Built with precision and passion for data analytics<i></p>
+<p align="center">💡 <i>“The goal is to turn data into information, and information into insight.” — Carly Fiorina</i></p>
