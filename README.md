@@ -71,6 +71,13 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 ---
 
+## 🏅 Certifications
+
+View all my verified certifications on Credly:
+👉 [**Tushar Kottawar — Credly Profile**](https://www.credly.com/users/tushar-kottawar)
+
+---
+
 ## ✍️ Blog and Technical Writing
 
 📝 **[How to resolve redo log file corruption using ALTER DATABASE CLEAR UNARCHIVED LOGFILE command](https://blog.unisoftindia.org/2016/08/step-by-step-how-to-resolve-redo-log.html)**
