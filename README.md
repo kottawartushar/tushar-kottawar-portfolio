@@ -125,7 +125,7 @@ An advanced Oracle recovery tutorial I authored — walks through diagnosing red
 
 ## 📫 Contact
 
-- 📧 [Email](mailto:kottawartushar084@gmail.com)  
+- <a href="mailto:kottawartushar084@gmail.com">📧 Email</a>  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
 
 ---
