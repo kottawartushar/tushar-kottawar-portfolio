@@ -69,6 +69,15 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 **Focus:** Fraud Analytics | ETL Automation | Data Visualization
 
+### 🧩 [Bug Governance System - Google (Contract: Ad Astra Consultants)](./projects/bug_governance_system.md)
+
+Developed a centralized bug tracking and governance framework to monitor inflow, outflow, and SLA adherence across priorities (P0–P4).
+Designed an interactive Plx dashboard, automated email alerts, and bi-weekly review cadence — reducing backlog volume by 84% in five months and improving SLA adherence by 40%.
+
+**Tech:** Plx SQL, Plx Dashboard, Plx Alerts, Google Sheets
+
+**Focus:** Bug Governance | Operational Analytics | Process Optimization
+
 ---
 
 ## 🏅 Certifications and Badges
@@ -78,7 +87,7 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 These include credentials in SQL and Data Analytics — verified through industry-recognized programs.
 
-- **Six Sigma Green Belt Certification** [Six Sigma Green Belt (PDF)](./certifications/Certificate_of_Achievement_Six_Sigma_GB.pdf)
+- 🎓 [**Six Sigma Green Belt Certification**](./certifications/Certificate_of_Achievement_Six_Sigma_GB.pdf)
 
 Certified in Lean Six Sigma Green Belt methodologies for process improvement and operational efficiency.
 
@@ -120,5 +129,6 @@ An advanced Oracle recovery tutorial I authored — walks through diagnosing red
 - 💼 [LinkedIn](https://www.linkedin.com/in/tusharkottawar/)
 
 ---
+
 
 <p align="center">💡 <i>“The goal is to turn data into information, and information into insight.” — Carly Fiorina</i></p>

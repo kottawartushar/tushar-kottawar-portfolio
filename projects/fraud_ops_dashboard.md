@@ -12,7 +12,7 @@ Fraud Operations Dashboard
 
 ---
 
-## 1️⃣ Project Context
+## 🧩 Project Context
 
 As part of Aircall’s Fraud Operations initiative, I led the development of a data-driven dashboard to enhance visibility into fraudulent activity, improve reporting efficiency, and enable proactive fraud detection.
 
@@ -20,7 +20,7 @@ The project aimed to consolidate fragmented data sources, automate fraud monitor
 
 ---
 
-## 2️⃣ Problem Statement
+## 🚨 Problem Statement
 
 A surge in fraudulent activities since December 2024 exposed Aircall to multiple risks — from chargebacks and refunds to compliance challenges and reputational damage.
 
@@ -28,7 +28,7 @@ Existing mitigation processes were siloed across teams, with manual reporting th
 
 ---
 
-## 3️⃣ Objectives
+## 🎯 Objectives
 
 The objectives of my project are as follows:
 
@@ -44,7 +44,7 @@ The objectives of my project are as follows:
 
 ---
 
-**Tools & Technologies:**
+## 🧰 Tools & Technologies
 
 1. **Hex:** SQL development and testing
 2. **Cursor:** Production deployment and monitoring
@@ -53,7 +53,7 @@ The objectives of my project are as follows:
 
 ---
 
-## 5️⃣ Methodology / Approach
+## 🔧 Methodology / Approach
 
 This project follows a structured, data analytics and engineering approach:
 
@@ -69,7 +69,7 @@ This project follows a structured, data analytics and engineering approach:
 
 ---
 
-## 6️⃣ Key Deliverables
+## 📦 Key Deliverables
 
 1. **Comprehensive Test Data Pipeline:** Designed, developed, and validated an end-to-end test data pipeline with integrated fraud filters, optimized SQL logic, and robust sanity checks to ensure complete data integrity and accuracy.
 
@@ -79,7 +79,7 @@ This project follows a structured, data analytics and engineering approach:
 
 ---
 
-## 7️⃣ Results / Impact
+## 📊 Results / Impact
 
 1. **Enhanced fraud detection efficiency:** Improved real-time visibility into fraudulent activity across key channels, enabling faster identification and resolution of suspicious events.
 
@@ -93,7 +93,7 @@ This project follows a structured, data analytics and engineering approach:
 
 ---
 
-## 8️⃣ Challenges & Learnings
+## ⚙️ Challenges & Learnings
 
 **Challenges:**
 
