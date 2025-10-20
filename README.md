@@ -69,7 +69,7 @@ Built production-grade SQL pipelines and interactive LookML visualizations, cutt
 
 **Focus:** Fraud Analytics | ETL Automation | Data Visualization
 
-### 🧩 [Bug Governance System - Google (Contract: Ad Astra Consultants)](./projects/bug_governance_system.md)
+### 🧩 [Bug Governance System — Google (Contract: Ad Astra Consultants)](./projects/bug_governance_system.md)
 
 Developed a centralized bug tracking and governance framework to monitor inflow, outflow, and SLA adherence across priorities (P0–P4).
 Designed an interactive Plx dashboard, automated email alerts, and bi-weekly review cadence — reducing backlog volume by 84% in five months and improving SLA adherence by 40%.
